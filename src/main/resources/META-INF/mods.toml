@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="dauladailuc"
+version="1.0.0"
+displayName="Đấu La Đại Lục Mod"
+authors="ChatGPT & Duy Thanh"
+description='''
+Một bản mod dựa theo thế giới Đấu La Đại Lục, có hệ thống Võ Hồn, Hồn Kỹ, Hồn Cốt, và Thành Thần.
+'''
+
+[[dependencies.dauladailuc]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
